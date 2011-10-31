@@ -1,0 +1,8 @@
+OAI Harvester implemented in python3, 
+
+there might be some OAI specific implementation stuff in there.
+
+The OAI records are fetched using the OAI ListRecords command, 
+and transformed into an SOLR document.
+
+
